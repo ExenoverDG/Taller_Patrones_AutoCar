@@ -61,7 +61,7 @@ Se utilizó para la construcción de contratos de alquiler.
 
 ##  Autor
 
-* Estudiante: Anderson Garcia Amu - 
+* Estudiantes: Anderson Garcia Amu - 
               Ferney Mauricio Montes - 
               Exenover Diaz
 
